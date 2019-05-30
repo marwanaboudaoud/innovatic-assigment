@@ -1,0 +1,58 @@
+*{
+text-align: center !important;
+margin: auto !important;
+padding-top:20px; 
+
+}
+
+img{
+  width:9%;
+  
+}
+
+.container{
+  border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  width :30%;
+}
+
+.nameInput{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  
+}
+
+.message{
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+
+.send{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  
+}
+
+h1{
+  font-size: 24px;
+  font-weight: bold;
+padding-bottom: 30px;
+
+}
+
+.name{
+  font-size: 20px;
+  padding-right: 20px;
+  
+}
+
